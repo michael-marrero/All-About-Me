@@ -23,7 +23,7 @@ I build production-style web apps and services: auth, APIs, databases, real-time
 - Audit-friendly decision trails
 - Role-based access + org/workspace model
 
-➡️ Repo: _pin this_  
+➡️ Repo: https://github.com/michael-marrero/AccessLens
 ➡️ Demo: (coming soon) • Docs: (coming soon)
 
 ---
@@ -36,7 +36,7 @@ Real-time telephony feedback loop that listens to calls and provides advisory co
 - Real-time transcription → decisioning loop
 - Production deployment focus (edge/webhooks, env configs)
 
-➡️ Repo: (link)
+➡️ Repo: https://github.com/ClarkOhlenbusch/Marlowe
 
 ---
 
