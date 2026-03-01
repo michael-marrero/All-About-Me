@@ -24,6 +24,7 @@ I build production-style web apps and services: auth, APIs, databases, real-time
 - Role-based access + org/workspace model
 
 ➡️ Repo: https://github.com/michael-marrero/AccessLens
+
 ➡️ Demo: (coming soon) • Docs: (coming soon)
 
 ---
@@ -68,5 +69,5 @@ Routing and facility-capacity matching with real-time updates for faster transpo
 ---
 
 ## Contact
-- LinkedIn: (link)
-- Email: (your email)
+- LinkedIn: [(link)](https://www.linkedin.com/in/michael-marreroii/)
+- Email: marreroii.michael@gmail.com
