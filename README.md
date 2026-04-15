@@ -117,11 +117,4 @@ Led a full chapter revitalization in Spring 2024, driving significant increases 
 - Distributed systems, backend infrastructure, or full-stack product work
 - Teams that care about reliability, contracts, and operational quality
 - Environments where I can own features end-to-end and move fast without cutting corners
-
----
-
-## Contact
-
-- 📧 [marreroii.michael@gmail.com](mailto:marreroii.michael@gmail.com)
-- 💼 [linkedin.com/in/michael-marreroii](https://www.linkedin.com/in/michael-marreroii/)
-- 💻 [github.com/michael-marrero](https://github.com/michael-marrero)
+- Working with interesting technologies, pushing my knowledge further, challenging my engineering ceiling every single day
