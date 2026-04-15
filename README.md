@@ -36,7 +36,7 @@ Built a **distributed queueing platform** allowing users to join, monitor, and m
 
 - Sole lead developer: designed and shipped venue-facing apps, user-facing apps, backend API, a deterministic queue engine for fair real-time ETAs, and internal admin tooling
 - Architected for consistency, reliability, and low-latency updates across multiple client surfaces
-- **Accepted into [Harvard Business School's Foundry](https://www.hbs.edu/mba/student-life/activities-and-clubs/entrepreneurship/Pages/foundry.aspx) accelerator (June 2026 cohort)**
+- **Accepted into [Harvard Business School's Foundry]([https://www.hbs.edu/mba/student-life/activities-and-clubs/entrepreneurship/Pages/foundry.aspx](https://www.hbs.edu/foundry)) accelerator (June 2026 cohort)**
 
 ---
 
