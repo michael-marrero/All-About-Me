@@ -2,7 +2,7 @@
 
 **Software Engineer** — Boston, MA  
 B.A. Computer Science + Mathematics Minor @ UMass Boston (Expected May 2026)  
-GPA: 3.30 · Harvard Business School Foundry Accelerator (June 2026 cohort)
+Harvard Business School Foundry Accelerator (June 2026 cohort)
 
 📧 marreroii.michael@gmail.com · 📞 +1 (339) 205-4515  
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-marreroii/) · 🐙 [GitHub](https://github.com/michael-marrero)
