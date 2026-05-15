@@ -13,6 +13,12 @@ GPA: 3.30 · Harvard Business School Foundry Accelerator (June 2026 cohort)
 
 I build distributed systems and full-stack products from zero to production. I care about correctness, reliability, and systems that are actually operable — explicit contracts, idempotent operations, structured observability, and predictable failure modes. Currently shipping at **Queue** (my own startup, accepted into HBS Foundry) and **Calico Care** (healthtech AI).
 
+## Currently Reading
+
+- *Why Machines Learn* — Anil Ananthaswamy
+- *Zero to One* — Peter Thiel
+- *In Love with the World* — Yongey Mingyur Rinpoche
+
 ---
 
 ## Technical Skills
@@ -73,42 +79,38 @@ Full-stack app that monitors live calls and streams real-time coaching to the UI
 
 ---
 
-### [Frontline Route](https://github.com/michael-marrero) — EMS-to-ED Routing System
-*Go · JavaScript · PostgreSQL · DragonflyDB (Redis) · HTMX · Docker · HERE APIs — Verizon Frontline Competition 2026*
+### [DocIntel](https://github.com/michael-marrero/Docintel) — Production-Shaped RAG over SEC 10-K Filings
 
-Real-time routing and capacity-matching system for EMS-to-hospital transport decisions.
+*Python · FAISS · BM25 · Cross-Encoder Reranking · Docker · GitHub Actions*
 
-- Built concurrent Go backend serving routing decisions using cost-based optimization over live telemetry and historical delay data
-- Modeled transport lifecycle as a finite-state machine with enforced invariants and idempotent transitions
-- Designed REST + WebSocket interfaces for real-time facility capacity updates with documented failure modes
-- Automated environment provisioning via Docker Compose for production-parity local development
+RAG pipeline focused on retrieval quality, grounded answers, and operational rigor.
 
----
-
-### [AccessLens](https://github.com/michael-marrero/AccessLens) — Identity Access Risk Triage *(WIP)*
-*TypeScript · Next.js · PostgreSQL*
-
-Production-style MVP for triaging identity/access risk and assisting with policy decisions.
-
-- Risk signal triage with human-in-the-loop workflows
-- Policy assistance with audit-friendly decision trails
-- Role-based access + org/workspace model
+- Hybrid retrieval combining BM25 + dense FAISS via Reciprocal Rank Fusion, followed by cross-encoder reranking
+- Structured citation outputs with refusal logic for low-confidence or out-of-corpus queries
+- Retrieval and answer quality evaluation runs in CI — regressions caught before merge
+- Reproducible local environment via Docker Compose; secret scanning (gitleaks) and pre-commit hooks enforced repo-wide
 
 ---
 
+### [Prompt Optimizer](https://github.com/michael-marrero/Prompt-Optimizer) — Task-Aware LLM Routing
+
+*Python · scikit-learn · TF-IDF · LLMRouterBench · OpenRouter*
+
+Prompt routing system that classifies queries by task type and recommends the best-performing model per task.
+
+- Task-type classifier across 10 categories (coding, math, reasoning, factual, agentic, medical, writing, etc.) using TF-IDF (word + char) + handcrafted prompt features → logistic regression with balanced class weights
+- Two-stage routing: classifier output (predicted type + confidence) feeds a downstream model router that selects an exact model from the LLMRouterBench top-model set
+- Experimental tier router (cheap / medium / strong) achieving **78% accuracy, 0.75 macro F1** as a coarse-grained fallback
+- End-to-end demo pipeline that maps benchmark labels to live OpenRouter routes via a verified model mapping
+
+---
+  
 ## Leadership
 
 ### Rising Entrepreneurs Association — Venture Lead & Relations
 *UMass Boston · Fall 2025 – Present*
 
-Designed and led a venture mentorship program supporting early-stage founders with product strategy and execution planning. Collaborated with investors, mentors, and student founders to strengthen venture pipelines.
-
----
-
-### Kappa Sigma — Chapter President
-*UMass Boston · March 2023 – Present*
-
-Led a full chapter revitalization in Spring 2024, driving significant increases in member engagement. Organized philanthropy initiatives generating **$10,000+ in each of 2024 and 2025**.
+Designed and led a venture mentorship program supporting early-stage founders with product strategy and execution planning. Collaborated with investors, mentors, and student founders to strengthen venture pipelines. I've gotten the chance to interview some really successful entrepreneurs and industry leaders, which has been an incredible experience. 
 
 ---
 
