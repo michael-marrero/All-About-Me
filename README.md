@@ -11,7 +11,7 @@ GPA: 3.30 · Harvard Business School Foundry Accelerator (June 2026 cohort)
 
 ## About
 
-I build distributed systems and full-stack products from zero to production. I care about correctness, reliability, and systems that are actually operable — explicit contracts, idempotent operations, structured observability, and predictable failure modes. Currently shipping at **Queue** (my own startup, accepted into HBS Foundry) and **Calico Care** (healthtech AI).
+I build distributed systems and full-stack products from zero to production. I care about correctness, reliability, and systems that are actually operable, explicit contracts, idempotent operations, structured observability, and predictable failure modes. Currently shipping at **Queue** (my own startup, accepted into HBS Foundry) and **Calico Care** (healthtech AI).
 
 ## Currently Reading
 
@@ -66,7 +66,7 @@ Healthtech startup building AI-powered digital triage with voice agents.
 
 ---
 
-## Projects
+## Projects I've Done or In Progress
 
 ### [Marlowe](https://github.com/ClarkOhlenbusch/Marlowe) — Real-Time Scam Call Monitor
 *Next.js · React · TypeScript · Twilio · Groq LLM · Supabase · Vercel — Tufts JumboHack 2026*
