@@ -1,7 +1,7 @@
 # Michael Marrero
 
 **Software Engineer** — Boston, MA  
-B.A. Computer Science + Mathematics Minor @ UMass Boston (Expected May 2026)  
+B.A. Computer Science + Mathematics Minor @ UMass Boston (Graduated May 2026)  
 Harvard Business School Foundry Accelerator (June 2026 cohort)
 
 📧 marreroii.michael@gmail.com · 📞 +1 (339) 205-4515  
