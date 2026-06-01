@@ -47,7 +47,7 @@ Built a **distributed queueing platform** allowing users to join, monitor, and m
 ---
 
 ### Calico Care — Software Engineer
-*Boston, MA · December 2025 – Present*
+*Boston, MA · December 2025 – May 2026*
 
 Healthtech startup building AI-powered digital triage with voice agents.
 
@@ -83,7 +83,7 @@ Full-stack app that monitors live calls and streams real-time coaching to the UI
 
 *Python · FAISS · BM25 · Cross-Encoder Reranking · Docker · GitHub Actions*
 
-RAG pipeline focused on retrieval quality, grounded answers, and operational rigor.
+RAG pipeline focused on retrieval quality, grounded answers, and operational rigor for enterprise corpora.
 
 - Hybrid retrieval combining BM25 + dense FAISS via Reciprocal Rank Fusion, followed by cross-encoder reranking
 - Structured citation outputs with refusal logic for low-confidence or out-of-corpus queries
@@ -96,7 +96,7 @@ RAG pipeline focused on retrieval quality, grounded answers, and operational rig
 
 *Python · scikit-learn · TF-IDF · LLMRouterBench · OpenRouter*
 
-Prompt routing system that classifies queries by task type and recommends the best-performing model per task.
+Prompt routing system that classifies queries by task type and auto-routes to the best-performing model per task.
 
 - Task-type classifier across 10 categories (coding, math, reasoning, factual, agentic, medical, writing, etc.) using TF-IDF (word + char) + handcrafted prompt features → logistic regression with balanced class weights
 - Two-stage routing: classifier output (predicted type + confidence) feeds a downstream model router that selects an exact model from the LLMRouterBench top-model set
@@ -108,7 +108,7 @@ Prompt routing system that classifies queries by task type and recommends the be
 ## Leadership
 
 ### Rising Entrepreneurs Association — Venture Lead & Relations
-*UMass Boston · Fall 2025 – Present*
+*UMass Boston · Fall 2025 – May 2026*
 
 Designed and led a venture mentorship program supporting early-stage founders with product strategy and execution planning. Collaborated with investors, mentors, and student founders to strengthen venture pipelines. I've gotten the chance to interview some really successful entrepreneurs and industry leaders, which has been an incredible experience. 
 
@@ -120,3 +120,4 @@ Designed and led a venture mentorship program supporting early-stage founders wi
 - Teams that care about reliability, contracts, and operational quality
 - Environments where I can own features end-to-end and move fast without cutting corners
 - Working with interesting technologies, pushing my knowledge further, challenging my engineering ceiling every single day
+- Startups!!
