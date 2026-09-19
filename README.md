@@ -1,6 +1,6 @@
 # Michael Marrero
 
-**Software Engineer** — Boston, MA  
+**AI Engineer @ Confido Health** — NYC, NY  
 B.A. Computer Science + Mathematics Minor @ UMass Boston (Graduated May 2026)  
 Harvard Business School Foundry Accelerator (June 2026 cohort)
 
